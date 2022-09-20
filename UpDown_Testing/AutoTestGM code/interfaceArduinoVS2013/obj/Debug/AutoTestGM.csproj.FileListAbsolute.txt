@@ -1,0 +1,15 @@
+C:\Users\munizgl\Documents\Projects\interfaceArduinoVS2013\interfaceArduinoVS2013\obj\Debug\AutoTestGM.csproj.AssemblyReference.cache
+C:\Users\munizgl\Documents\Projects\interfaceArduinoVS2013\interfaceArduinoVS2013\obj\Debug\AutoTestGM.csproj.SuggestedBindingRedirects.cache
+C:\Users\munizgl\Documents\Projects\interfaceArduinoVS2013\interfaceArduinoVS2013\obj\Debug\interfaceArduinoVS2013.Form1.resources
+C:\Users\munizgl\Documents\Projects\interfaceArduinoVS2013\interfaceArduinoVS2013\obj\Debug\AutoTestGM.csproj.GenerateResource.cache
+C:\Users\munizgl\Documents\Projects\interfaceArduinoVS2013\interfaceArduinoVS2013\obj\Debug\AutoTestGM.csproj.CoreCompileInputs.cache
+C:\Users\munizgl\Documents\Projects\interfaceArduinoVS2013\interfaceArduinoVS2013\obj\Debug\AutoTestGM.Properties.Resources.resources
+C:\Users\munizgl\Documents\Projects\interfaceArduinoVS2013\interfaceArduinoVS2013\bin\Debug\AutoTestGM.exe.config
+C:\Users\munizgl\Documents\Projects\interfaceArduinoVS2013\interfaceArduinoVS2013\bin\Debug\AutoTestGM.exe.manifest
+C:\Users\munizgl\Documents\Projects\interfaceArduinoVS2013\interfaceArduinoVS2013\bin\Debug\AutoTestGM.application
+C:\Users\munizgl\Documents\Projects\interfaceArduinoVS2013\interfaceArduinoVS2013\bin\Debug\AutoTestGM.exe
+C:\Users\munizgl\Documents\Projects\interfaceArduinoVS2013\interfaceArduinoVS2013\bin\Debug\AutoTestGM.pdb
+C:\Users\munizgl\Documents\Projects\interfaceArduinoVS2013\interfaceArduinoVS2013\obj\Debug\AutoTestGM.exe.manifest
+C:\Users\munizgl\Documents\Projects\interfaceArduinoVS2013\interfaceArduinoVS2013\obj\Debug\AutoTestGM.application
+C:\Users\munizgl\Documents\Projects\interfaceArduinoVS2013\interfaceArduinoVS2013\obj\Debug\AutoTestGM.exe
+C:\Users\munizgl\Documents\Projects\interfaceArduinoVS2013\interfaceArduinoVS2013\obj\Debug\AutoTestGM.pdb
